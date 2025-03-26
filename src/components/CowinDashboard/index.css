@@ -1,0 +1,26 @@
+.w {
+  height: 100vh;
+  overflow-x: scroll;
+  background-color: #161625;
+  padding-left: 80px;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0px;
+  height: 50px;
+}
+
+.loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+.scroll {
+  overflow-x: scroll;
+}
